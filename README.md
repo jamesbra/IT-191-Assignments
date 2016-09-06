@@ -21,9 +21,25 @@ http://connect.att.jobs/us/los-angeles-county/it_engineering_technology/jobid104
 Stanley Black and Decker Software Technical Lead:
 https://sjobs.brassring.com/TGWebHost/jobdetails.aspx?jobId=765210&PartnerId=165&SiteId=20&codes=IND
 
+After graduation, my career goals are to work as a developer for a software company. To be qualified for these positions, you 
+need to be familiar with the software they develop and the languages they use. Illinois State prepares their graduates by 
+teaching them the knowledge needed to cover a broad range of companies. My aspirations are higher than most, I want to work 
+for a big name software company, such as Microsoft, IBM, or Google. To achieve this, I am attempting to graduate Summa Cum 
+Laude (3.9-4.0), as well as participate in different IT clubs and personal projects. By graduation, I should have participated
+in 3 internships (and one internship in high school). But, I need to intern for the company I want to go full time with, I’ve 
+found that many companies try to hire internally.
+	
+During my early-mid career years, I would like to transition into more senior technical roles wherever I am. This summer I had
+the opportunity to intern at John Deere, where my position aligned with business IT. I discovered I wasn’t passionate about 
+business and may not be interested in a business heavy role such as project management like I previously believed. I align 
+more with wanting to transition into a team lead or architect role. That way I can move up, but stay more technical. To do 
+this, I need to pay special attention to my data structures, algorithm, and nuance classes. Knowing the syntax will not be 
+enough to be a good leader or architect. I should know why things can be optimized in certain ways, and best software design 
+practices. Knowing the details of all my programming languages will allow me to perform well in this role.
 
-	After graduation, my career goals are to work as a developer for a software company. To be qualified for these positions, you need to be familiar with the software they develop and the languages they use. Illinois State prepares their graduates by teaching them the knowledge needed to cover a broad range of companies. My aspirations are higher than most, I want to work for a big name software company, such as Microsoft, IBM, or Google. To achieve this, I am attempting to graduate Summa Cum Laude (3.9-4.0), as well as participate in different IT clubs and personal projects. By graduation, I should have participated in 3 internships (and one internship in high school). But, I need to intern for the company I want to go full time with, I’ve found that many companies try to hire internally.
-	During my early-mid career years, I would like to transition into more senior technical roles wherever I am. This summer I had the opportunity to intern at John Deere, where my position aligned with business IT. I discovered I wasn’t passionate about business and may not be interested in a business heavy role such as project management like I previously believed. I align more with wanting to transition into a team lead or architect role. That way I can move up, but stay more technical. To do this, I need to pay special attention to my data structures, algorithm, and nuance classes. Knowing the syntax will not be enough to be a good leader or architect. I should know why things can be optimized in certain ways, and best software design practices. Knowing the details of all my programming languages will allow me to perform well in this role.
-	In addition to knowing my technical knowledge, I will learn from my seniors and managers. Absorbing their knowledge and decisions, and learn why our company does certain things over others. Learning quickly and learning it the first time will give me a leg up. It will also put in me in a good position to get the position I am seeking, since I will be doing everything the right way.
+In addition to knowing my technical knowledge, I will learn from my seniors and managers. Absorbing their knowledge and
+decisions, and learn why our company does certain things over others. Learning quickly and learning it the first time will 
+give me a leg up. It will also put in me in a good position to get the position I am seeking, since I will be doing everything
+the right way.
 
 
