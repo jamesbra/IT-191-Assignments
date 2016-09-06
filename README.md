@@ -39,7 +39,7 @@ practices. Knowing the details of all my programming languages will allow me to 
 
 In addition to knowing my technical knowledge, I will learn from my seniors and managers. Absorbing their knowledge and
 decisions, and learn why our company does certain things over others. Learning quickly and learning it the first time will 
-give me a leg up. It will also put in me in a good position to get the position I am seeking, since I will be doing everything
-the right way.
+give me a leg up. It will also put in me in a good position to get the position I am seeking, since hopefully I will be doing 
+everything the right way.
 
 
