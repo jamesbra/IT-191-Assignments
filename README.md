@@ -30,7 +30,7 @@ in 3 internships (and one internship in high school). But, I need to intern for 
 found that many companies try to hire internally.
 	
 During my early-mid career years, I would like to transition into more senior technical roles wherever I am. This summer I had
-the opportunity to intern at John Deere, where my position aligned with business IT. I discovered I wasn’t passionate about 
+the opportunity to intern at a company where my position aligned with business IT. I discovered I wasn’t passionate about 
 business and may not be interested in a business heavy role such as project management like I previously believed. I align 
 more with wanting to transition into a team lead or architect role. That way I can move up, but stay more technical. To do 
 this, I need to pay special attention to my data structures, algorithm, and nuance classes. Knowing the syntax will not be 
